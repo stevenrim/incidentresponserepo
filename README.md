@@ -11,12 +11,8 @@ security incidents or breaches.
 ## 📄 IR Labs
 <a href="https://github.com/stevenrim/incidentresponse1/blob/main/README.md"><img src="https://img.shields.io/badge/-IR Scenario: Virtual Machine Brute Force Detection-000000?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 <br>
-<a href=""><img src="https://img.shields.io/badge/-IR Scenario: PowerShell Suspicious Web Request-000000?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://github.com/user-attachments/assets/8bc3f1fb-8b5e-44bd-94a3-769399a9c6d0"><img src="https://img.shields.io/badge/-IR Scenario: PowerShell Suspicious Web Request-000000?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 <br>
-<a href=""><img src="https://img.shields.io/badge/-IR Scenario: Potential Impossible Travel-000000?&style=for-the-badge&logo=medium&logoColor=white"/></a>
-
-
-
-![image](https://github.com/user-attachments/assets/8bc3f1fb-8b5e-44bd-94a3-769399a9c6d0)
+<a href="https://github.com/user-attachments/assets/8bc3f1fb-8b5e-44bd-94a3-769399a9c6d0"><img src="https://img.shields.io/badge/-IR Scenario: Potential Impossible Travel-000000?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 
