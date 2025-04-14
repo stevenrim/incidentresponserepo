@@ -9,7 +9,7 @@ security incidents or breaches.
 ```
 
 ## 📄 IR Labs
-<a href=""><img src="https://img.shields.io/badge/-IR Scenario: Virtual Machine Brute Force Detection-000000?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://github.com/stevenrim/incidentresponse1/blob/main/README.md"><img src="https://img.shields.io/badge/-IR Scenario: Virtual Machine Brute Force Detection-000000?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 <br>
 <a href=""><img src="https://img.shields.io/badge/-IR Scenario: PowerShell Suspicious Web Request-000000?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 <br>
